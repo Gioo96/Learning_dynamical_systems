@@ -1,4 +1,5 @@
 # Learning dynamical syystems
+Matlab laboratories.
 ## Lab 1: Nonparametric system identification of a single-link manipulator
 A nonparametreic bayesian viewpoint is used to estimate the inverse dynamic of a single-link manipulator.\
 [Lab 1.pdf](https://github.com/Gioo96/Learning_dynamical_systems/files/10156086/Lab.1.pdf)
